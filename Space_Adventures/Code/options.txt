@@ -1,0 +1,6 @@
+number of threads 1
+debug mode ON
+global volume 0.904269
+sound volume 0.339018
+music volume 0.931185
+UI volume 0.446685
